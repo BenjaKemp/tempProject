@@ -1,0 +1,12 @@
+.taxi-card{
+  font-size: 7px;
+  height: 35px;
+  width: 150px;
+  margin: 2px;
+  background-color: yellow;
+  border: solid black 1px;
+  border-radius: 5px;
+}
+.taxi-card:hover {
+  box-shadow: 0 0 11px black;
+}
